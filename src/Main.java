@@ -17,8 +17,8 @@ public class Main {
 		int sum = number1 + number2;
 		System.out.printf("Soma: %d%n", sum);
 		
-		System.out.print(5 ** 2)
-		System.out.print(17 % 3)
+		System.out.println(5 ** 2)
+		System.out.println(17 % 3)
 
 
 		System.out.printf("resultado: %d%n", number1 % number2);
