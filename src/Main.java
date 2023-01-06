@@ -17,5 +17,7 @@ public class Main {
 		int sum = number1 + number2;
 		System.out.printf("Soma: %d%n", sum);
 
+		System.out.printf("resultado: %d%n", number1 % number2);
+
 	}
 }
