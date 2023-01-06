@@ -16,6 +16,10 @@ public class Main {
 		int number2 = input.nextInt();
 		int sum = number1 + number2;
 		System.out.printf("Soma: %d%n", sum);
+		
+		System.out.print(5 ** 2)
+		System.out.print(17 % 3)
+
 
 		System.out.printf("resultado: %d%n", number1 % number2);
 
