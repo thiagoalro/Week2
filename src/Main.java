@@ -17,11 +17,16 @@ public class Main {
 		int sum = number1 + number2;
 		System.out.printf("Soma: %d%n", sum);
 		
-		System.out.println(5 ** 2)
-		System.out.println(17 % 3)
+		System.out.println(Math.pow(5, 2));
+		System.out.println(17 % 3);
 
 
 		System.out.printf("resultado: %d%n", number1 % number2);
+
+		System.out.print("Digite o proximo número: ");
+		int number3 = input.nextInt();
+
+		System.out.printf("digitados: %2d%4d%6d%n", number1, number2, number3);
 
 	}
 }
